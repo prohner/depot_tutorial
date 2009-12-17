@@ -1,0 +1,18 @@
+<div id="product-list">
+	<h1>Listing Orders</h1>
+	<table cellpadding="5" cellspacing="0">
+	<% for order in @orders %>
+		<tr valign="top" class="<%= cycle('list-line-odd', 'list-line-even') %>">
+			<td width="60%"> 
+				<span class="list-title"><%=h order.name %></span>
+			</td> 
+			<td width="60%"> 
+				<span class="list-title"><%=h order.address %></span>
+			</td> 
+		</tr>
+	<% end %>
+	</table> 
+</div>
+<br />
+
+<!--%= link_to 'Products', :index %-->

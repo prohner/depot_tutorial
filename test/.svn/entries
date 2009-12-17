@@ -1,0 +1,77 @@
+10
+
+dir
+2
+file:///Library/Subversion/Repository/depot/test
+file:///Library/Subversion/Repository/depot
+
+
+
+2009-12-14T05:17:32.159907Z
+2
+Preston Air
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e035f1fa-4def-440f-9dfb-f8d6674525f7
+
+unit
+dir
+
+test_helper.rb
+file
+
+
+
+
+2009-12-14T05:19:50.000000Z
+e297614c72684d065aef001f86188732
+2009-12-14T05:17:32.159907Z
+2
+Preston Air
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1800
+
+performance
+dir
+
+functional
+dir
+
+integration
+dir
+
+fixtures
+dir
+

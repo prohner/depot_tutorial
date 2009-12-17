@@ -1,0 +1,172 @@
+10
+
+dir
+2
+file:///Library/Subversion/Repository/depot
+file:///Library/Subversion/Repository/depot
+
+
+
+2009-12-14T05:17:32.159907Z
+2
+Preston Air
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e035f1fa-4def-440f-9dfb-f8d6674525f7
+
+test
+dir
+
+app
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2009-12-14T05:19:50.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2009-12-14T05:17:32.159907Z
+2
+Preston Air
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+307
+
+branches
+dir
+
+db
+dir
+
+README
+file
+
+
+
+
+2009-12-14T05:19:50.000000Z
+a58e68a7599c976f071d5b9c6fa67fb3
+2009-12-14T05:17:32.159907Z
+2
+Preston Air
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10011
+
+vendor
+dir
+
+tags
+dir
+
+tmp
+dir
+
+Capfile
+file
+
+
+
+
+2009-12-14T05:20:48.000000Z
+d119f97793b81e0e743d4c7d4a3137d0
+2009-12-14T05:17:32.159907Z
+2
+Preston Air
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+113
+
+trunk
+dir
+
+script
+dir
+
+config
+dir
+
+doc
+dir
+
+lib
+dir
+
+public
+dir
+

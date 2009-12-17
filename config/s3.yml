@@ -1,0 +1,9 @@
+staging:
+  aws_access_key: ABC123
+  aws_secret_access_key: abc123abc123abc123abc123
+  bucket_base_name: yourbucket
+
+production:
+  aws_access_key: AKIAIPOQPLY33G4OW6WA
+  aws_secret_access_key: c5nQmLu8uVLznauf4Joe+aF2V2vQQrplqW1VW+PP
+  bucket_base_name: depot_bucket

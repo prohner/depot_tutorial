@@ -1,12 +1,19 @@
 # This is a sample Capistrano config file for EC2 on Rails.
 # It should be edited and customized.
 
-my_own_hostname = "ec2-174-129-52-149.compute-1.amazonaws.com"
+my_own_hostname = "ec2-174-129-157-171.compute-1.amazonaws.com"
 
 set :application, "depot"
 set :domain, my_own_hostname
-set :repository, "file:///Library/Subversion/Repository/depot"
 set :deploy_via, :copy
+
+#set :repository, "file:///Library/Subversion/Repository/depot"
+
+default_run_options[:pty] = true
+set :repository,  "git@github.com:prohner/depot_tutorial.git"
+set :scm, "git"
+set :scm_passphrase, "alexis" #This is your custom users password
+set :user, "prohner"
 
 # NOTE: for some reason Capistrano requires you to have both the public and
 # the private key in the same folder, the public key should have the 
